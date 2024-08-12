@@ -1,7 +1,7 @@
 <h1 align='center' >👋 WELCOME TO MY GITHUB!</h1> 
 
 Hi, I'm Đỗ Thành Trung.
-I'm an AI Researher. I'm currently learning AI, MLOps, and Data Engineer.
+I'm an AI Researcher. I'm currently learning AI, MLOps, and Data Engineer.
 I'm receptive and enthusiastic about gaining knowledge and working together with individuals who have shared interests.
 
 ### 🧰 Languages and Tools
